@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/work/self study/coursera/Algorithms, Part II(by Kevin Wayne, Robert Sedgewick)/lib/named_package/algs4-package.jar"/>
+	<classpathentry kind="lib" path="E:/work/self study/coursera/Algorithms, Part II(by Kevin Wayne, Robert Sedgewick)/lib/named_package/stdlib-package.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
